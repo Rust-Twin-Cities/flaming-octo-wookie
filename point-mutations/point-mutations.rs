@@ -1,0 +1,3 @@
+pub fn hamming_distance(a: &str, b: &str) -> usize {
+    // ...
+}
